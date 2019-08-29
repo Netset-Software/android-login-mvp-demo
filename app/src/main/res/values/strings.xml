@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">LoginExampleMvp</string>
+    <string name="no_internet">Please check your internet connectivity.</string>
+    <string name="email_error">Please enter valid email address.</string>
+    <string name="password_error">Please enter valid password.</string>
+    <string name="session_expire">You are unauthorized please login again.</string>
+    <string name="login">Login</string>
+    <string name="hint_login">Login using username and password</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="on_login_sucess">Login Successful</string>
+    <string name="on_login_failure">Login Failed</string>
+
+    <string-array name="image_array">
+        <item>https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/3675/SITours/hong-kong-harbor-night-cruise-and-dinner-at-victoria-peak-in-hong-kong-114436.jpg</item>
+        <item>https://www.pandotrip.com/wp-content/uploads/2014/08/Whitsunday-Island-Photo-by-Mitchell-Burns.jpg</item>
+        <item>https://cdn.shopify.com/s/files/1/2316/3287/products/KITBASH3D_EGYPT_WEBPIC_03_1024x1024.jpg?v=1532314585</item>
+        <item>https://cdn.pixabay.com/photo/2016/11/18/19/01/paris-1836415__340.jpg</item>
+        <item>https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/3675/SITours/hong-kong-harbor-night-cruise-and-dinner-at-victoria-peak-in-hong-kong-114436.jpg</item>
+        <item>https://www.pandotrip.com/wp-content/uploads/2014/08/Whitsunday-Island-Photo-by-Mitchell-Burns.jpg</item>
+        <item>https://cdn.shopify.com/s/files/1/2316/3287/products/KITBASH3D_EGYPT_WEBPIC_03_1024x1024.jpg?v=1532314585</item>
+        <item>https://cdn.pixabay.com/photo/2016/11/18/19/01/paris-1836415__340.jpg</item>
+        <item>https://2.bp.blogspot.com/-CyLH9NnPoAo/XJUWK2UHiMI/AAAAAAAABUk/D8XMUIGhDbwEhC29dQb-7gfYb16GysaQgCLcBGAs/s1600/tiger</item>
+        <item>https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/3675/SITours/hong-kong-harbor-night-cruise-and-dinner-at-victoria-peak-in-hong-kong-114436.jpg</item>
+        <item>https://www.pandotrip.com/wp-content/uploads/2014/08/Whitsunday-Island-Photo-by-Mitchell-Burns.jpg</item>
+        <item>https://cdn.shopify.com/s/files/1/2316/3287/products/KITBASH3D_EGYPT_WEBPIC_03_1024x1024.jpg?v=1532314585</item>
+        <item>https://cdn.pixabay.com/photo/2016/11/18/19/01/paris-1836415__340.jpg</item>
+        <item>https://www.pandotrip.com/wp-content/uploads/2014/08/Whitsunday-Island-Photo-by-Mitchell-Burns.jpg</item>
+        <item>https://cdn.shopify.com/s/files/1/2316/3287/products/KITBASH3D_EGYPT_WEBPIC_03_1024x1024.jpg?v=1532314585</item>
+        <item>https://cdn.pixabay.com/photo/2016/11/18/19/01/paris-1836415__340.jpg</item>
+        <item>https://cdn.pixabay.com/photo/2016/11/18/19/01/paris-1836415__340.jpg</item>
+        <item>https://cache-graphicslib.viator.com/graphicslib/thumbs674x446/3675/SITours/hong-kong-harbor-night-cruise-and-dinner-at-victoria-peak-in-hong-kong-114436.jpg</item>
+        <item>https://www.pandotrip.com/wp-content/uploads/2014/08/Whitsunday-Island-Photo-by-Mitchell-Burns.jpg</item>
+        <item>https://www.pandotrip.com/wp-content/uploads/2014/08/Whitsunday-Island-Photo-by-Mitchell-Burns.jpg</item>
+        <item>https://cdn.shopify.com/s/files/1/2316/3287/products/KITBASH3D_EGYPT_WEBPIC_03_1024x1024.jpg?v=1532314585</item>
+        <item>https://cdn.pixabay.com/photo/2016/11/18/19/01/paris-1836415__340.jpg</item>
+        <item>https://www.pandotrip.com/wp-content/uploads/2014/08/Whitsunday-Island-Photo-by-Mitchell-Burns.jpg</item>
+        <item>https://www.pandotrip.com/wp-content/uploads/2014/08/Whitsunday-Island-Photo-by-Mitchell-Burns.jpg</item>
+
+    </string-array>
+</resources>
